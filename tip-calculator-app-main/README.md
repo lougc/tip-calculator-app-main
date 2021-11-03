@@ -16,7 +16,7 @@ The challenge is to build out  tip calculator app and get it looking as close to
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution CODE: [https://github.com/lougc/tip-calculator-app-main]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
